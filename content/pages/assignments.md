@@ -9,15 +9,84 @@ Students are expected to complete a series short writing assignments based on th
 Weekly Writing Assignments
 --------------------------
 
-| ASSIGNMENTS | DESCRIPTIONS |
-| --- | --- |
-| 1 | Based on the reading, write 250 words or more on a scientific or technological application of fact 8 (induction) or fact 9 or 10 (magnetic forces on moving charges). Please cite any on-line or other sources used. |
-| 2 | Write 250 words or more on some aspect of magnetic levitation. |
-| 3 | Write 250 words or more on some aspect of magnetic recording. This field has moved very rapidly since the book was written, and you might want to consult recent sources on progress in bit densities or on magnetic RAMs (MRAM). |
-| 4 | Choose topic for your 15-minute oral presentation (to be given later) and write 250 words or more on the topic. A list of possible topics will be distributed, but skim _Driving Force_ and elsewhere for other ideas. |
-| 5 | Write 250 words or more on some aspect of biomagnetism. |
-| 6 | Write 250 words or more on some use of magnets in advanced physics or chemistry research. |
-| 7 | Write 250 words or more giving your frank assessment of the seminar - which seminars you liked best, which you liked least, and any suggestions you may have to improve next year's seminar. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Based on the reading, write 250 words or more on a scientific or technological application of fact 8 (induction) or fact 9 or 10 (magnetic forces on moving charges). Please cite any on-line or other sources used.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Write 250 words or more on some aspect of magnetic levitation.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Write 250 words or more on some aspect of magnetic recording. This field has moved very rapidly since the book was written, and you might want to consult recent sources on progress in bit densities or on magnetic RAMs (MRAM).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Choose topic for your 15-minute oral presentation (to be given later) and write 250 words or more on the topic. A list of possible topics will be distributed, but skim _Driving Force_ and elsewhere for other ideas.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Write 250 words or more on some aspect of biomagnetism.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Write 250 words or more on some use of magnets in advanced physics or chemistry research.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Write 250 words or more giving your frank assessment of the seminar - which seminars you liked best, which you liked least, and any suggestions you may have to improve next year's seminar.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Oral_Presentations" >}}{{< /anchor >}}Oral Presentations
 --------------------------------------------------------------------

@@ -33,17 +33,245 @@ Course Calendar
 
 The following table summarizes the topics covered in each class session.
 
-| Lec # | Topics | Details | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- | --- |
-| 1 | Introduction: Basics of Hard and Soft Magnetic Materials | Earth's magnetic field, north and south poles, attraction and repulsion, magnetic torques, forces, energy. Hard (permanent) and soft (temporary) magnetic materials. Saturation magnetization, coercivity, magnetic viewers. | Dr. James Livingston | &nbsp; |
-| 2 | Magnetic Forces and Curie Temperatures | Visit: [MIT Plasma Science and Fusion Center](http://www.psfc.mit.edu/). See demonstrations of Curie temperature, induction, levitation, plasma control, etc. by MIT's "[Mr. Magnet](http://museum.mit.edu/nom150/entries/1248)." | Paul Thomas | Assignment 1 due |
-| 3 | Basics of Electromagnetism | Magnetism from electricity (electromagnets), electricity from magnetism (induction), magnetic levitation. | Dr. James Livingston | Assignment 2 due |
-| 4 | Magnetic Data Recording | Visit: Prof. Ross's [Magnetic Materials and Devices Group](http://caross.mit.edu/). Discuss magnetic recording materials and systems, hard disks, other forms of data recording. | Prof. Caroline Ross, Department of Materials Science and Engineering | Assignment 3 due |
-| 5 | Superconductivity | Use liquid nitrogen to show the levitation of magnets above a "high-temperature" superconductor and learn a bit about superconductivity and its applications. We also may be able to cool other things to 77 Kelvin to see how their properties change. | Dr. James Livingston | Assignment 4 due |
-| 6 | Brain Magnetic Fields | Visit: [Magnetoencephalography Lab](http://web.mit.edu/kitmitmeg/whatis.html). See how a magnetically shielded room and SQUIDs are used measure the magnetic fields produced by the human brain. | Prof. Alec Marantz, Department of Linguistics | Assignment 5 due |
-| 7 | Oral Presentations - Part 1 | Student presentations on the Gauss rifle, bird navigation, and magnetism and relativity. | Students | &nbsp; |
-| 8 | Magnets in Cyclotrons, CERN, and Space | Visit: Cyclotron Building. Perform hands-on experiments in the large cyclotron magnet, directly seeing and feeling the effects of large magnetic fields on conductors. Learn about their space-based and land-based research employing magnets. | Dr. Ben Monreal, Electromagnetics Group of the [Laboratory for Nuclear Science](http://web.mit.edu/lns/) | Assignment 6 due |
-| 9 | Oral Presentations - Part 2 | Student presentations on NMR in chemistry, magnetic therapy, and rail guns and coil guns. | Students | &nbsp; |
-| 10 | Magnets in NMR, EPR, Mass Spectroscopy | Visit: Chemistry Department's [Instrumentation Facility](https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/). See a collection of large superconducting electromagnets used for NMR and learn how they are used to analyze molecular structure. | Dr. Hyongjun Pan | &nbsp; |
-| 11 | Ferrofluids | Begin with experiments on ferrofluids (suspensions of fine magnetic particles in liquids).  {{< br >}}  {{< br >}}Visit: Prof. Doyle's [Dynamics of Biopolymers and Complex Fluids](http://web.mit.edu/doylegroup/) laboratory, where they have employed magnetic microparticles for DNA separation. | Prof. Patrick Doyle, Department of Chemical Engineering | &nbsp; |
-| 12 | Wrap-up | Discuss this seminar, your first term at MIT, and your plans for the rest of the school year. | &nbsp; | Assignment 7 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Details
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Basics of Hard and Soft Magnetic Materials
+{{< tdclose >}}
+{{< tdopen >}}
+Earth's magnetic field, north and south poles, attraction and repulsion, magnetic torques, forces, energy. Hard (permanent) and soft (temporary) magnetic materials. Saturation magnetization, coercivity, magnetic viewers.
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. James Livingston
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Forces and Curie Temperatures
+{{< tdclose >}}
+{{< tdopen >}}
+Visit: [MIT Plasma Science and Fusion Center](http://www.psfc.mit.edu/). See demonstrations of Curie temperature, induction, levitation, plasma control, etc. by MIT's "[Mr. Magnet](http://museum.mit.edu/nom150/entries/1248)."
+{{< tdclose >}}
+{{< tdopen >}}
+Paul Thomas
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of Electromagnetism
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetism from electricity (electromagnets), electricity from magnetism (induction), magnetic levitation.
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. James Livingston
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Magnetic Data Recording
+{{< tdclose >}}
+{{< tdopen >}}
+Visit: Prof. Ross's [Magnetic Materials and Devices Group](http://caross.mit.edu/). Discuss magnetic recording materials and systems, hard disks, other forms of data recording.
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Caroline Ross, Department of Materials Science and Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Superconductivity
+{{< tdclose >}}
+{{< tdopen >}}
+Use liquid nitrogen to show the levitation of magnets above a "high-temperature" superconductor and learn a bit about superconductivity and its applications. We also may be able to cool other things to 77 Kelvin to see how their properties change.
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. James Livingston
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Brain Magnetic Fields
+{{< tdclose >}}
+{{< tdopen >}}
+Visit: [Magnetoencephalography Lab](http://web.mit.edu/kitmitmeg/whatis.html). See how a magnetically shielded room and SQUIDs are used measure the magnetic fields produced by the human brain.
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Alec Marantz, Department of Linguistics
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations - Part 1
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations on the Gauss rifle, bird navigation, and magnetism and relativity.
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Magnets in Cyclotrons, CERN, and Space
+{{< tdclose >}}
+{{< tdopen >}}
+Visit: Cyclotron Building. Perform hands-on experiments in the large cyclotron magnet, directly seeing and feeling the effects of large magnetic fields on conductors. Learn about their space-based and land-based research employing magnets.
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Ben Monreal, Electromagnetics Group of the [Laboratory for Nuclear Science](http://web.mit.edu/lns/)
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations - Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations on NMR in chemistry, magnetic therapy, and rail guns and coil guns.
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Magnets in NMR, EPR, Mass Spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+Visit: Chemistry Department's [Instrumentation Facility](https://chemistry.mit.edu/facilities-and-centers/department-of-chemistry-instrumentation-facility-dcif/). See a collection of large superconducting electromagnets used for NMR and learn how they are used to analyze molecular structure.
+{{< tdclose >}}
+{{< tdopen >}}
+Dr. Hyongjun Pan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ferrofluids
+{{< tdclose >}}
+{{< tdopen >}}
+Begin with experiments on ferrofluids (suspensions of fine magnetic particles in liquids).  
+  
+Visit: Prof. Doyle's [Dynamics of Biopolymers and Complex Fluids](http://web.mit.edu/doylegroup/) laboratory, where they have employed magnetic microparticles for DNA separation.
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Patrick Doyle, Department of Chemical Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss this seminar, your first term at MIT, and your plans for the rest of the school year.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
